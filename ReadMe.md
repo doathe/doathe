@@ -1,4 +1,5 @@
-# Hello, I'm Nisa Doğa Turhan
+<h1 align="center">Hello, I'm Nisa Doğa Turhan</h1>
+
 # 💫 About Me:
 🌱 I’m currently learning .Net Backend Development and Web Development.<br><br>🤝 I’m looking for help with Exploring New Technologies and more information about Backend Development.<br><br>💬 How to contact me: Email - nisa.tur@gmail.com<br><br>⚡ Fun fact: I like to listen to Shakira while I code.
 
